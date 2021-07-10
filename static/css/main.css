@@ -22,10 +22,10 @@ main {
 }
 
 img {
-    max-width: 200px;
+    max-width: 100%;
 }
 
-img[alt=deal-maker] { width: 250px; }
+img[alt=deal-maker] { width: 260px; }
 
 /* Homepage */
 
